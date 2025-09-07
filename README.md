@@ -4,4 +4,4 @@
 
 № | Ссылка на проект | Отрасль бизнеса | Описание | Используемые библиотеки | Презентация проекта
 ---|---|---|---|---|---
-1 | [Анализ бизнес-кейса по Excel](https://github.com/daniya981/portfolio_excel/tree/94c5814916faa19e2309f491eefa4fe9cbbaa2b4/business_case)| Товары и услуги |Был проведен анализ продаж по продуктовым сетям, было произведено сравнение между собой объемы закупок, изучение товаров по категориям, был проведен анализ пользователей|MC Excel, chatGPT | [Проект в Excel](https://docs.google.com/spreadsheets/d/1KV6-3oyPsbYbQo9vIcs1QDT6yfMGSdBG/edit?usp=sharing&ouid=107329247915398596352&rtpof=true&sd=true)
+1 | [Анализ бизнес-кейса по товарам и услугам](https://github.com/daniya981/portfolio_excel/tree/94c5814916faa19e2309f491eefa4fe9cbbaa2b4/business_case)| Товары и услуги |Был проведен анализ продаж по продуктовым сетям, было произведено сравнение между собой объемы закупок, изучение товаров по категориям, был проведен анализ пользователей|MC Excel, chatGPT | [Проект в Excel](https://docs.google.com/spreadsheets/d/1KV6-3oyPsbYbQo9vIcs1QDT6yfMGSdBG/edit?usp=sharing&ouid=107329247915398596352&rtpof=true&sd=true)
